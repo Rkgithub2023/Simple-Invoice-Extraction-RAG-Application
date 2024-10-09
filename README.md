@@ -1,4 +1,4 @@
-# 📄 Simple Invoice Extraction RAG Application
+# 📄 Simple Invoice Extraction using RAG Application
 
 This repository contains a Retrieval-Augmented Generation (RAG) application for extracting data from invoices using the Hugging Face embedding models, LangChain framework, FAISS vector database, and Llama 2 hosted on a local server.
 
